@@ -1,4 +1,4 @@
-# churn-prediction-problem
+# Churn-prediction-problem
 Predict whether a customer is likely to cancel or stop using the service by using billing, support, and demographics data, so the business can proactively retain at-risk customers.
 
 ## Project description
