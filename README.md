@@ -30,7 +30,7 @@ Results: Project is easier to understand.
 
 ## How to run the project
 Clone this repository:
-git clone <repository-url>
+git clone https://github.com/sjarwson/churn-prediction-problem.git
 
 Navigate to the project folder:
 cd churn-prediction-problem
